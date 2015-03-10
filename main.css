@@ -1,0 +1,23 @@
+div {
+  background-color:fuchsia;
+  margin-left:10%;
+  border-style: inset;
+  border-color: maroon;
+}
+
+header {
+  background-color:lime;
+  border-style: inset;
+  border-color: black;
+}
+
+footer {
+  background-color:silver;
+  border-style: inset;
+  border-color: purple;
+  text-align: center;
+}
+
+img {
+
+}
